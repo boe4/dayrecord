@@ -1,0 +1,11 @@
+{
+  "android": {"min": 0, "latest": 0},
+  "ios": {"min": 0, "latest": 0},
+  "message": "",
+  "urls": {
+    "play": "https://play.google.com/store/apps/details?id=com.boe4.dayrecord",
+    "apk": "https://boe4.github.io/dayrecord/download.html",
+    "testflight": "https://testflight.apple.com/join/FFMQyNcN",
+    "appstore": "https://apps.apple.com/app/id6828289481"
+  }
+}
